@@ -1,7 +1,7 @@
 # assignment2
 
-'''sh
+```sh
 $ npm install brianwalsh-bw
-'''
+```
 
 This packages requires x-ray
