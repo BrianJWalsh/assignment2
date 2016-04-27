@@ -5,3 +5,7 @@ $ npm install brianwalsh-bw
 ```
 
 This packages requires x-ray
+```sh
+$ npm install x-ray
+```
+
