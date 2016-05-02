@@ -1,17 +1,19 @@
 [
   {
-    "position": "RW",
-    "rating": "99",
-    "nation": "http://futhead.cursecdn.com/static/img/16/nations/52.png",
-    "club": "http://futhead.cursecdn.com/static/img/16/clubs/241.png",
-    "playerImage": "http://futhead.cursecdn.com/static/img/16/players_alt/p50489671.png",
+    "player": "\n        Franz\n        Beckenbauer\n    ",
+    "position": "CB",
+    "rating": "93",
+    "nation": "http://futhead.cursecdn.com/static/img/16/nations/21.png",
+    "club": "http://futhead.cursecdn.com/static/img/16/clubs/999.png",
+    "playerImage": "http://futhead.cursecdn.com/static/img/16/players/168473.png",
+    "workrates": "High / Medium",
     "stats": {
-      "pace": "99 PAC",
-      "shooting": "98 SHO",
-      "passing": "97 PAS",
-      "dribbling": "99 DRI",
-      "defending": "40 DEF",
-      "physical": "75 PHY"
+      "pace": "82 PAC",
+      "shooting": "69 SHO",
+      "passing": "83 PAS",
+      "dribbling": "79 DRI",
+      "defending": "94 DEF",
+      "physical": "81 PHY"
     }
   }
 ]
