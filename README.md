@@ -4,8 +4,8 @@
 $ npm install brianwalsh-bw
 ```
 
-This packages requires x-ray
+Calling the package
 ```sh
-$ npm install x-ray
+var assignment = require('assignment-bw');
 ```
 
