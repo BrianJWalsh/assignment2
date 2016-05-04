@@ -1,7 +1,7 @@
 # assignment2
 
 ```sh
-$ npm install brianwalsh-bw
+$ npm install assignment-bw
 ```
 
 Calling the package
